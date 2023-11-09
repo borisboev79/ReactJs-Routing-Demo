@@ -1,0 +1,7 @@
+.characterList {
+    display: flex;
+    justify-content: space-around;
+    gap: 3em;
+    flex-wrap: wrap;
+
+}
